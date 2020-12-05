@@ -40,6 +40,28 @@
 	max-width: 600px;
 }
 
+button {
+	font-family: inherit;
+  background: none;
+  border: 1px solid #777;
+  padding: 0px 5px 0px 5px;
+  font-size: inherit;
+  color: #777;
+}
+
+button:hover {
+	color: #000;
+}
+
+input {
+	font-family: inherit;
+	font-size: inherit;
+}
+
+.print-btn {
+	margin-top: 8px;
+}
+
 .navigation {
 	display: inline-block;
 	vertical-align: top;
@@ -87,7 +109,7 @@
 }
 
 .search {
-	
+
 }
 
 a {
